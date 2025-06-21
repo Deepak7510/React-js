@@ -1,0 +1,1 @@
+{"mappings":"AAAA,qEAAqE;AACrE,qDAAqD;AACrD,mBAAmB","sources":["App.js"],"sourcesContent":["// const root = ReactDOM.createRoot(document.getElementById(\"root\"));\r\n// const h1 = React.createElement(\"h1\", {}, \"Hello\");\r\n// root.render(h1);\r\n"],"names":[],"version":3,"file":"Code 2.6bd02f5a.js.map","sourceRoot":"/__parcel_source_root/"}
